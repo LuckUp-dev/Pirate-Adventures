@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SilverCoin
+  - Enemy
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundCheck
+  - interactables
+  - WallCheck
+  - Hero
+  - Enemies
+  - Collectables
+  - Checkers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Particles
+    uniqueID: 232837361
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: first layer
+    uniqueID: 219061713
+    locked: 0
+  - name: TileMap
+    uniqueID: 3012377219
+    locked: 0
+  - name: zero layer
+    uniqueID: 1679058401
+    locked: 0
